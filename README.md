@@ -15,8 +15,6 @@ Practical insights into the minimum sample size required for reliable risk predi
 
 Project_21730.Rmd: The main R Markdown file containing the code and analysis. \
 TSLA.csv: Historical Daily returns for Tesla CSV Dataset used for the analysis.  
-GARCH_VaR_Simulations.R: R script for running GARCH and tGARCH simulations. \
-VaR_Plots.pdf: Output plots illustrating the results of the VaR analysis.
 
 ## Methodology
 
